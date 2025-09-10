@@ -40,7 +40,7 @@ int better(vector<int>& arr, int k){
 
         mp[pref[i]]++;
     }
-    return ans;
+    return ans;g
 }
 
 int main(){
